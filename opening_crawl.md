@@ -12,8 +12,7 @@ ____    __    ____  ___     .______    ________.
    \    /\    / /  _____  \ |  |\  \---)   |
     \__/  \__/ /__/     \__\|__| `._______/
 
-```
-
+main
 
 It is a period of civil war. Rebel spaceships,
 striking from a hidden base, have won their first

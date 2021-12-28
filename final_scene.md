@@ -4,7 +4,9 @@ dressed in a long white dress and is staggeringly beautiful.
 She rises and places a gold medallion around Han's neck. He
 winks at her. She then repeats the ceremony with Luke, who
 is moved by the event. They turn and face the assembled
+ feature-branch
 troops, who all bow before them. Chewbacca also gets a medallion and Artoo
+
 beeps with happiness.
 
 Roll Credits
